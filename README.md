@@ -1,7 +1,8 @@
-![Alt](/public/guy-dumais-logo.svg "Guy Dumais")
-# Next.js 11 Page Rendering
 
-Next.js support **4 rendering strategies** to generate, deliver and render a React Single Page App on the client-side:
+# Next.js 12+ Page Rendering
+
+Next.js supports at least **4 rendering strategies** to generate, deliver and render a React Single Page App on the client-side:
+
 1. Static-Site Generation (SSG)
 2. Server-Sider Rendering (SSR)
 3. Incremental Static Regeneration (ISR)
@@ -14,5 +15,4 @@ Live demo for performance and Lighhouse testing with Chrome DevTools available h
 [Next.js Page Rendering Demo](https://next-page-rendering.vercel.app/ "Next.js Page Rendering Demo")
 
 ## Tutorial
-Learn how page rendering and data fetching works in Next.js:  
-[Next.js: The Ultimate Cheat Sheet To Page Rendering](https://guydumais.digital/blog/next-js-the-ultimate-cheat-sheet-to-page-rendering/ "Next.js: The Ultimate Cheat Sheet To Page Rendering")
+The sources in this demo were originally part of the [following](https://guydumais.digital/blog/next-js-the-ultimate-cheat-sheet-to-page-rendering/) Next.js page rendering tutorial, which I recommend reading.
